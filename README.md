@@ -1,6 +1,6 @@
 ![logo](https://github.com/manish0x1/manish0x1/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Manish Mahawar</h1>
-<h3 align="center">A passionate MERN Stack Developer From India</h3>
+<h3 align="center">A Passionate MERN Stack Developer From India</h3>
 
 <img align="right" alt="coading" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
