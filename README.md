@@ -68,8 +68,8 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=CREATIVE%20MIND&fontSize=40&animation=fadeIn" />
-</p>>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Building+Cool+Stuff" alt="Typing SVG" />
+</p>
 
 
 
