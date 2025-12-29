@@ -12,7 +12,7 @@
 ```txt
 💡 Aspiring Full Stack Developer skilled in React, Next.js, Node.js, and React Native with a strong foundation in DSA and system design.  
 🚀 Passionate about building intuitive UIs and scalable, AI-powered web & mobile applications.  
-🎓 B.Tech IT student (CGPA: 8.70) at Rajasthan Technical University, focused on solving real-world problems through clean architecture.  
+🎓 B.Tech IT student (CGPA: 8.60) at Rajasthan Technical University, focused on solving real-world problems through clean architecture.  
 🤝 Based in Kota, Rajasthan — actively seeking internship and collaboration opportunities in cutting-edge tech domains.
 ```
 
@@ -43,7 +43,7 @@
 
 ```ts
 🧑‍💻 Languages:      C, C++, JavaScript (ES6+), HTML5, CSS3
-🔧 Frameworks:      React.js, Next.js, Node.js, Express.js, Tailwind CSS, Redux, Prisma
+🔧 Frameworks:     React.js, Next.js, Node.js, Express.js, Tailwind CSS, Redux, Prisma
 🗄️ Databases:      MongoDB, MySQL, 
 🛠️ Tools:          Git, GitHub, VS Code, Postman, npm, Vercel, Netlify
 🧩 Concepts:       Data Structures & Algorithms, OOP, DBMS, OS, Computer Networks
@@ -70,6 +70,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Building+Cool+Stuff" alt="Typing SVG" />
 </p>
+
 
 
 
