@@ -38,7 +38,7 @@
 ### 🛠️ Tech Stack I Love
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,tailwind,typescript,js,redux,docker,figma,git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,js,redux,figma,git" />
 </p>
 
 ```ts
@@ -71,6 +71,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Building+Cool+Stuff" alt="Typing SVG" />
 </p>
+
 
 
 
