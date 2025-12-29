@@ -68,8 +68,9 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1a1a&height=120&section=header&text=DEVELOPER%20MODE%20ON&fontSize=35&fontColor=ffd700&animation=twinkling" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=CREATIVE%20MIND&fontSize=40&animation=fadeIn" />
+</p>>
+
 
 
 
