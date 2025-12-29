@@ -42,11 +42,11 @@
 </p>
 
 ```ts
-🧑‍💻 Languages:     C++, JavaScript, TypeScript, SQL
-🔧 Frameworks:     React.js, Next.js, Node.js, Express.js, React Native
-🗄️ Databases:      MongoDB, MySQL, Redis
-🛠️ Tools:          Git, Docker, Postman, VS Code
-🧩 Concepts:       Microservices, DSA, Clean Architecture
+🧑‍💻 Languages:      C, C++, JavaScript (ES6+), HTML5, CSS3
+🔧 Frameworks:      React.js, Next.js, Node.js, Express.js, Tailwind CSS, Redux, Prisma
+🗄️ Databases:      MongoDB, MySQL, 
+🛠️ Tools:          Git, GitHub, VS Code, Postman, npm, Vercel, Netlify
+🧩 Concepts:       Data Structures & Algorithms, OOP, DBMS, OS, Computer Networks
 ```
 
 ---
@@ -68,7 +68,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1a1a&height=120&section=header&text=DEVELOPER%20MODE%20ON&fontSize=35&fontColor=ffd700&animation=twinkling" />
 </p>
 
 
