@@ -1,74 +1,79 @@
-## 💼 About Me
+## 🚀 About Me
 
-```yaml
-👨‍💻 Role:
-  Full-Stack AI Engineer
+<img align="right" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-🚀 Summary:
-  Passionate about building scalable web applications and AI-powered
-  solutions that combine modern software engineering with Generative AI.
+### 👨‍💻 Full-Stack AI Engineer
 
-💡 Expertise:
-  • MERN Stack Development
-  • Django & Django REST Framework
-  • Backend Engineering & API Development
-  • Generative AI Applications
-  • Retrieval-Augmented Generation (RAG)
-  • AI Agents & LLM Integrations
+💡 Passionate about building **scalable web applications**, **AI-powered products**, and **intelligent digital experiences**.
 
-🛠️ Core Skills:
+⚡ I combine modern software engineering with **Generative AI**, **LLMs**, **RAG**, and **AI Agents** to create impactful solutions.
 
-  Languages:
-    • JavaScript (ES6+)
-    • Python
-    • SQL
+<br>
 
-  Frontend:
-    • React.js
-    • Next.js
-    • Redux
-    • Context API
-    • Tailwind CSS
-    • HTML5
-    • CSS3
+## 🔥 Expertise
 
-  Backend:
-    • Node.js
-    • Express.js
-    • Django
-    • Django REST Framework (DRF)
-    • REST APIs
-    • JWT Authentication
-    • API Security
+<div align="center">
 
-  Databases:
-    • MongoDB
-    • PostgreSQL
-    • MySQL
+🖥️ **MERN Stack Development** &nbsp; • &nbsp;
+🐍 **Django & DRF** &nbsp; • &nbsp;
+⚙️ **Backend Engineering** &nbsp; • &nbsp;
+🤖 **Generative AI** &nbsp; • &nbsp;
+🧠 **RAG Systems** &nbsp; • &nbsp;
+🚀 **AI Agents**
 
-  AI & Generative AI:
-    • Large Language Models (LLMs)
-    • Retrieval-Augmented Generation (RAG)
-    • AI Agents
-    • LangChain
-    • Prompt Engineering
-    • Vector Databases
-    • Embeddings
+</div>
 
-  Tools:
-    • Git
-    • GitHub
-    • Postman
-    • VS Code
+---
 
-🎯 Mission:
-  Building intelligent, scalable, and user-centric applications
-  by combining cutting-edge AI with modern web technologies.
+## ⚡ Core Skills
 
-📩 Open To:
-  • Full-Stack Development Roles
-  • AI Engineering Opportunities
-  • Backend Development Positions
-  • Generative AI Application Development
-  • Internships & Collaborations
-```
+### 💻 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### 🤖 AI & Generative AI
+
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6A1B9A?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF9800?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector_Databases-009688?style=for-the-badge)
+
+---
+
+## 🎯 Mission
+
+> **"Building intelligent, scalable, and user-centric applications by combining cutting-edge AI with modern web technologies."**
+
+---
+
+## 📩 Open To
+
+✨ Full-Stack Development  
+✨ AI Engineering  
+✨ Backend Development  
+✨ Generative AI Applications  
+✨ Open Source Contributions  
+✨ Internships & Collaborations
