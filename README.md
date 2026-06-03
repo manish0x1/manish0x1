@@ -1,7 +1,7 @@
 <div align="center">
 
-# ⚡ Manish Mahawar
-### 🚀 Full-Stack AI Engineer | Generative AI Specialist | Tech Innovator
+# 🧠 Manish Mahawar
+### 🚀 Full-Stack AI Engineer | Generative AI & Multi-Agent Systems Specialist
 
 <img src="https://herokuapp.com+🤖;Building+AI-Powered+Applications+🚀;MERN+%7C+Django+%7C+Python+Developer+⚡;RAG+%7C+LLMs+%7C+AI+Agents+🧠;Always+Learning+Something+New+✨" />
 
@@ -15,9 +15,9 @@
 
 </div>
 
-## 📌 About Me
+## 📌 TL;DR / Profile
 
-I build smart applications combining robust full-stack architectures with modern artificial intelligence. Focused on engineering production-ready GenAI applications that matter.
+I build production-ready applications combining robust software architecture with modern artificial intelligence. Focused on engineering high-impact, deterministic solutions using probabilistic AI components.
 
 ```yaml
 Name: Manish Mahawar
@@ -26,28 +26,27 @@ Education: B.Tech Information Technology (CGPA: 8.60)
 
 Current Focus:
   - Agentic AI Workflows
-  - Advanced RAG Pipelines
-  - Scalable System Design
+  - Advanced RAG Pipelines (GraphRAG / Hybrid Search)
+  - Scalable Distributed Systems
 
-Open To:
+Available For:
   - Core AI Internships
-  - Freelance Projects
+  - Freelance Projects / MVPs
   - Open Source Collaborations
 ```
 
 ---
 
-## 🛠️ Ecosystem & Tech Stack
+## 🛠️ Tech Arsenal
 
 ### 🧠 Artificial Intelligence Core
-* **Core Systems:** Large Language Models (LLMs), Generative AI
-* **Architecture:** Retrieval-Augmented Generation (RAG), Multi-Agent Workflows
-* **Frameworks:** LangChain, Prompt Engineering
-* **Storage:** Vector Databases
+* **Architectures:** Retrieval-Augmented Generation (RAG), Multi-Agent Systems, Autonomous Agents.
+* **Frameworks & Concepts:** LangChain, Prompt Engineering, Prompt Flow, Context Window Optimization.
+* **Vector Embeddings:** Vector Databases (ChromaDB / Pinecone / pgvector).
 
-### 💻 Software Engineering Toolkit
-* **Languages:** JavaScript, Python, C++, C, SQL
-* **Frontend:** React, Next.js, Redux, Tailwind CSS, HTML, CSS
+### 💻 Software Engineering & Web Toolkit
+* **Languages:** Python, JavaScript, C++, C, SQL
+* **Frontend:** React, Next.js, Redux, Tailwind CSS, HTML5, CSS3
 * **Backend:** Node.js, Express, Django
 * **Databases:** MongoDB, MySQL, PostgreSQL
 * **DevOps & Tools:** Git, GitHub, VS Code, Postman, Vercel, Netlify
@@ -56,27 +55,24 @@ Open To:
 
 ## ⚡ Core Engineering Interests
 
-* 🧠 **Multi-Agent Systems:** Structuring complex, self-correcting AI networks.
-* 📂 **Advanced RAG:** Building highly accurate knowledge retrieval applications.
-* ⚡ **Full-Stack SaaS:** Scaling robust MVPs efficiently from zero to deployment.
-* 🌐 **API Architectures:** Developing RESTful APIs with strict performance standards.
+* 🤖 **Multi-Agent Systems:** Structuring complex, self-correcting AI networks that cooperate to execute multi-step workflows.
+* 📂 **Advanced RAG:** Optimizing context retrieval accuracy using reranking, metadata filtering, and hybrid search methods.
+* ⚡ **Full-Stack SaaS:** Scaling robust MVPs efficiently from ground zero to production deployment.
 
 ---
 
-## 📈 GitHub Analytics
-
-*(Note: Replace `YOUR_USERNAME` with your exact GitHub handle in the links below once uploaded)*
+## 📈 GitHub Insights
 
 <div align="center">
-  <img height="180" src="https://vercel.app" alt="Stats"/>
-  <img height="180" src="https://vercel.app" alt="Languages"/>
+  <img height="180" src="https://vercel.app" alt="Manish's Stats"/>
+  <img height="180" src="https://vercel.app" alt="Manish's Top Languages"/>
   <br/><br/>
-  <img src="https://demolab.com" width="100%" alt="Streak"/>
+  <img src="https://demolab.com" width="100%" alt="Manish's Coding Streak"/>
 </div>
 
 ---
 
-## 💭 Framework For Success
+## 💭 Core Philosophy
 
 <div align="center">
   
@@ -89,8 +85,6 @@ Open To:
 <img src="https://herokuapp.com+🚀" />
 
 </div>
-
-
 
 
 
