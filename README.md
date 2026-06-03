@@ -1,184 +1,122 @@
 <div align="center">
 
-# Hi 👋, I'm Manish Mahawar
-
-### 🚀 Full-Stack AI Engineer | Generative AI Enthusiast | Problem Solver
+# ⚡ Manish Mahawar
+### 🚀 Full-Stack AI Engineer | Generative AI Specialist | Tech Innovator
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Full-Stack+AI+Engineer+🤖;Building+AI-Powered+Applications+🚀;MERN+%7C+Django+%7C+Python+Developer+⚡;RAG+%7C+LLMs+%7C+AI+Agents+🧠;Always+Learning+Something+New+✨" />
 
-<br>
+<br/>
 
-<a href="mailto:manishmahawarofficial@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishmahawarofficial@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manishmahawar20/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF00FF?style=for-the-badge&logo=firefox&logoColor=white)](https://manish-portfolio-xie8.vercel.app/)
 
-<a href="https://www.linkedin.com/in/manishmahawar20/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://manish-portfolio-xie8.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-FF00FF?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-
+<img src="https://githubusercontent.com" width="100%">
 </div>
 
----
+## 📌 Discovering Manish
 
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWF6eGJ4M3I4dXdwdG1mYm5nNDR6dHFsYXB6NWQ5Y3E4aWRmY2N1YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
-
-```yaml
-Name: Manish Mahawar
-
-Role: Full-Stack AI Engineer
-
-Education:
-  Degree: B.Tech Information Technology
-  CGPA: 8.60
-
-Focus Areas:
-  - Full Stack Development
-  - Generative AI
-  - RAG Systems
-  - AI Agents
-  - Backend Engineering
-
-Currently Learning:
-  - Agentic AI
-  - Advanced RAG Pipelines
-  - System Design
-
-Open To:
-  - Internships
-  - Freelance Projects
-  - Open Source Contributions
-  - Collaborations
-```
-
----
-
-## 🧠 Tech Arsenal
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,python,cpp,c,mysql"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify"/>
-</p>
-
----
-
-## 🤖 AI & Generative AI
-
-<p align="center">
-
-![LLMs](https://img.shields.io/badge/LLMs-blue?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-green?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![AI%20Agents](https://img.shields.io/badge/AI_Agents-purple?style=for-the-badge)
-![Prompt%20Engineering](https://img.shields.io/badge/Prompt_Engineering-orange?style=for-the-badge)
-![Vector%20Databases](https://img.shields.io/badge/Vector_DB-red?style=for-the-badge)
-
-</p>
-
----
-
-## 📊 GitHub Analytics
+<table align="center" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🤖 Code. Automate. Elevate.</h3>
+      <p>I build smart applications combining robust full-stack architectures with modern artificial intelligence. Focused on engineering production-ready GenAI applications that matter.</p>
+      <ul>
+        <li><b>Current Mission:</b> Advancing my expertise in Agentic AI workflows.</li>
+        <li><b>Engineering Philosophy:</b> Scale backend systems cleanly; design frontend systems intuitively.</li>
+        <li><b>Available For:</b> Core AI internships, freelance projects, and scalable SaaS collaborations.</li>
+      </ul>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWF6eGJ4M3I4dXdwdG1mYm5nNDR6dHFsYXB6NWQ5Y3E4aWRmY2N1YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
+<img src="https://githubusercontent.com" width="100%">
 </div>
 
----
+## 🛠️ Ecosystem & Tech Stack
 
-## 🔥 GitHub Streak
+### 🧠 Artificial Intelligence Core
+<p align="left">
+  <img src="https://shields.io" alt="LLMs"/>
+  <img src="https://shields.io" alt="RAG"/>
+  <img src="https://shields.io" alt="LangChain"/>
+  <img src="https://shields.io" alt="AI Agents"/>
+  <img src="https://shields.io" alt="Vector DB"/>
+</p>
+
+### 💻 Software Engineering Toolkit
+<table>
+  <tr>
+    <td align="center" width="20%"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>DevOps & Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" /></td>
+  </tr>
+</table>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
+<img src="https://githubusercontent.com" width="100%">
 </div>
 
----
+## ⚡ Core Engineering Interests
 
-## 🏆 Achievements
+- 🧠 **Multi-Agent Systems:** Structuring complex, self-correcting AI networks.
+- 📂 **Advanced RAG:** Building highly-accurate knowledge retrieval applications.
+- ⚡ **Full-Stack SaaS:** Scaling robust MVPs efficiently from zero to deployment.
+- 🌐 **API Architectures:** Developing RESTful APIs with strict performance standards.
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
+<img src="https://githubusercontent.com" width="100%">
 </div>
 
----
+## 📈 Activity & Insights
 
-## 💡 What I Love Building
-
-✨ AI-Powered Applications
-
-✨ Full-Stack SaaS Products
-
-✨ Intelligent Chatbots
-
-✨ RAG-Based Knowledge Systems
-
-✨ Developer Tools
-
-✨ Scalable Backend Systems
-
----
-
-## 💭 Quote I Live By
+> ⚠️ *Note: Remember to change `manishmahawar20` to your exact GitHub handle if it differs.*
 
 <div align="center">
-
-> "Code is not just about functionality.  
-> Great software solves problems, creates impact, and improves lives."
-
+  <img src="https://vercel.app" width="100%" alt="Trophies"/>
+  <br/><br/>
+  <img height="180" src="https://vercel.app" alt="Stats"/>
+  <img height="180" src="https://vercel.app" alt="Languages"/>
+  <br/><br/>
+  <img src="https://demolab.com" width="100%" alt="Streak"/>
 </div>
 
----
+<div align="center">
+<img src="https://githubusercontent.com" width="100%">
+</div>
+
+## 💭 Framework For Success
 
 <div align="center">
+  
+> *"Code is not just about functionality. Great software solves problems, creates impact, and improves lives."*
 
-### 🚀 Let's Build Something Amazing Together
+<br/>
+
+### 🚀 Let's Build Something Impactful
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+AI+Engineer;Building+Intelligent+Products;Open+For+Collaborations;Let's+Create+Impact+🚀" />
 
 </div>
-
-
-
-
-
-
 
 
 
