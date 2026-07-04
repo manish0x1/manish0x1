@@ -19,7 +19,8 @@
 ⚙️ **Backend Engineering** &nbsp; • &nbsp;
 🤖 **Generative AI** &nbsp; • &nbsp;
 🧠 **RAG Systems** &nbsp; • &nbsp;
-🚀 **AI Agents**
+🚀 **AI Agents** &nbsp; • &nbsp;
+🌀 **Agentic AI Flows**
 
 </div>
 
@@ -58,6 +59,9 @@
 ![RAG](https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-6A1B9A?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-4A148C?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5722?style=for-the-badge)
+![Agentic Flow](https://img.shields.io/badge/Agentic_Flow-009688?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF9800?style=for-the-badge)
 ![Vector DB](https://img.shields.io/badge/Vector_Databases-009688?style=for-the-badge)
 
@@ -75,5 +79,7 @@
 ✨ AI Engineering  
 ✨ Backend Development  
 ✨ Generative AI Applications  
+✨ Agentic AI Flows & Multi-Agent Systems  
 ✨ Open Source Contributions  
-✨ Internships & Collaborations
+✨ Internships & Collaborations  
+
