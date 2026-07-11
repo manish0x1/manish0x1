@@ -6,7 +6,7 @@
 
 💡 Passionate about building **scalable web applications**, **AI-powered products**, and **intelligent digital experiences**.
 
-⚡ I combine modern software engineering with **Generative AI**, **LLMs**, **RAG**, and **AI Agents** to create impactful solutions.
+⚡ I combine modern software engineering with **Generative AI**, **LLMs**, **RAG**, **LangChain**, **LangGraph**, **MCP (Model Context Protocol)**, and **Agentic AI** to create impactful solutions.
 
 <br>
 
@@ -19,8 +19,11 @@
 ⚙️ **Backend Engineering** &nbsp; • &nbsp;
 🤖 **Generative AI** &nbsp; • &nbsp;
 🧠 **RAG Systems** &nbsp; • &nbsp;
+🔗 **LangChain** &nbsp; • &nbsp;
+🌐 **LangGraph** &nbsp; • &nbsp;
+🧩 **MCP** &nbsp; • &nbsp;
 🚀 **AI Agents** &nbsp; • &nbsp;
-🌀 **Agentic AI Flows**
+🌀 **Agentic AI**
 
 </div>
 
@@ -53,15 +56,16 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-### 🤖 AI & Generative AI
+### 🤖 AI & Agentic AI
 
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-6A1B9A?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-4A148C?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-blue?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6A1B9A?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-009688?style=for-the-badge)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF5722?style=for-the-badge)
-![Agentic Flow](https://img.shields.io/badge/Agentic_Flow-009688?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF9800?style=for-the-badge)
 ![Vector DB](https://img.shields.io/badge/Vector_Databases-009688?style=for-the-badge)
 
@@ -69,16 +73,12 @@
 
 ## 🎯 Mission
 
-> **"Building intelligent, scalable, and user-centric applications by combining cutting-edge AI with modern web technologies."**
+> **"Building intelligent, scalable, and production-ready applications by combining modern software engineering with Generative AI, LangChain, LangGraph, MCP, AI Agents, and Agentic AI."**
 
 ---
 
 ## 📩 Open To
 
-✨ Full-Stack Development  
-✨ AI Engineering  
-✨ Backend Development  
-✨ Generative AI Applications  
-✨ Agentic AI Flows & Multi-Agent Systems  
-✨ Open Source Contributions  
-✨ Internships & Collaborations  
+✨ Full-Stack AI Engineer  
+✨ AI Engineer (LLMs • RAG • Agentic AI)  
+✨ Backend Engineer (Python • Django • Node.js)
