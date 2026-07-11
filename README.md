@@ -6,7 +6,7 @@
 
 💡 Passionate about building **scalable web applications**, **AI-powered products**, and **intelligent digital experiences**.
 
-⚡ I combine modern software engineering with **Generative AI**, **LLMs**, **RAG**, **LangChain**, **LangGraph**, **MCP (Model Context Protocol)**, and **Agentic AI** to create impactful solutions.
+⚡ I combine modern software engineering with **Generative AI**, **LLMs**, **RAG**, **LangChain**, **LangGraph**, **MCP (Model Context Protocol)**, **FastAPI**, and **Agentic AI** to create impactful solutions.
 
 <br>
 
@@ -16,6 +16,7 @@
 
 🖥️ **MERN Stack Development** &nbsp; • &nbsp;
 🐍 **Django & DRF** &nbsp; • &nbsp;
+⚡ **FastAPI** &nbsp; • &nbsp;
 ⚙️ **Backend Engineering** &nbsp; • &nbsp;
 🤖 **Generative AI** &nbsp; • &nbsp;
 🧠 **RAG Systems** &nbsp; • &nbsp;
@@ -49,6 +50,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🗄️ Databases
 
@@ -72,8 +74,4 @@
 
 ## 🎯 Mission
 
-> **"Building intelligent, scalable, and production-ready applications by combining modern software engineering with Generative AI, LangChain, LangGraph, MCP, AI Agents, and Agentic AI."**
-
----
-
-
+> **"Building intelligent, scalable, and production-ready applications by combining modern software engineering with Generative AI, FastAPI, LangChain, LangGraph, MCP, AI Agents, and Agentic AI."**
