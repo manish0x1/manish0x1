@@ -76,8 +76,4 @@
 
 ---
 
-## 📩 Open To
-
-✨ Full-Stack AI Engineer  
-✨ AI Engineer 
-✨ Backend Engineer 
+## 📩 Open to Full-Stack AI Engineer, AI Engineer, and Backend Engineer roles.
