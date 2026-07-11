@@ -65,7 +65,6 @@
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-blue?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-6A1B9A?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-009688?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF5722?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF9800?style=for-the-badge)
 ![Vector DB](https://img.shields.io/badge/Vector_Databases-009688?style=for-the-badge)
 
