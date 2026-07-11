@@ -79,5 +79,5 @@
 ## 📩 Open To
 
 ✨ Full-Stack AI Engineer  
-✨ AI Engineer (LLMs • RAG • Agentic AI)  
-✨ Backend Engineer (Python • Django • Node.js)
+✨ AI Engineer 
+✨ Backend Engineer 
